@@ -1,0 +1,28 @@
+Package: fosafety
+Type: Package
+Title: Fort Ord Safety Training Data
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Christopher",
+           family = "Callaghan",
+           role = c("aut", "cre"),
+           email = "cjcallaghan88@gmail.com")
+Description: A portable repository for accessing training data from fortordsafety.com.
+License: CC0
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Imports:
+  data.table,
+  jsonlite,
+  lubridate,
+  plotly,
+  shiny,
+  shinydashboard,
+  shinycssloaders,
+  stringi
+Suggests:
+  testthat
+Depends: 
+  R (>= 4.1)

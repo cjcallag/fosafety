@@ -1,0 +1,13 @@
+name: ESCA-Safety-Training-Visualizer
+title: ESCA-Safety-Training-Visualizer
+username:
+account: cosesca
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4245209
+bundleId: 4693718
+url: https://cosesca.shinyapps.io/ESCA-Safety-Training-Visualizer/
+when: 1623183866.36822
+lastSyncTime: 1623183866.36824
+asMultiple: FALSE
+asStatic: FALSE
